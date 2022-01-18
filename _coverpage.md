@@ -1,4 +1,4 @@
-# metalflow <small>1.0</small>
+# metalflow <small>0.1</small>
 
 An infrastructure management system
 
