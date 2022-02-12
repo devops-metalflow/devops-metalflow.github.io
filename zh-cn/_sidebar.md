@@ -1,17 +1,15 @@
 * 概览
-    * [介绍](zh-cn/introduction.md)
-    * [开始](zh-cn/quick-start.md)
-    * [演示](zh-cn/demo.md)
-    * [设计](zh-cn/design.md)
-    * [评测](zh-cn/benchmark.md)
+  * [介绍](zh-cn/introduction.md)
+  * [开始](zh-cn/quick-start.md)
+  * [安装](zh-cn/install.md)
+  * [日志](zh-cn/release-notes.md)
 
-* 用户指南
-    * [使用者](zh-cn/for-user.md)
-    * [开发者](zh-cn/for-developer.md)
+* 指南
+  * [架构](zh-cn/architecture.md)
+  * [接口](zh-cn/apis.md)
 
-* 接口参考
-    * [gRPC](zh-cn/grpc.md)
-    * [CLI](zh-cn/cli.md)
-    * [REST](zh-cn/rest.md)
+* 评测
+  * [功能](zh-cn/features.md)
+  * [性能](zh-cn/performance.md)
 
-* 外部资源
+* 参考
