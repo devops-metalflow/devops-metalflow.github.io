@@ -1,17 +1,8 @@
-* Overview
-  * [Introduction](en-us/introduction.md)
-  * [Quick Start](en-us/quick-start.md)
-  * [Install](en-us/install.md)
-  * [Release Notes](en-us/release-notes.md)
-
 * Guides
+  * [Introduction](en-us/introduction.md)
+  * [Start](en-us/start.md)
+
+* Design
   * [Architecture](en-us/architecture.md)
-  * [APIs](en-us/apis.md)
-
-* Benchmark
-  * [Features](en-us/features.md)
-  * [Performance](en-us/performance.md)
-
-* References
-  * [Ninja Build](en-us/ninja-build.md)
-  * [Remote Execution API](en-us/remote-execution-api.md)
+  * [Web](en-us/web.md)
+  * [Server](en-us/server.md)
