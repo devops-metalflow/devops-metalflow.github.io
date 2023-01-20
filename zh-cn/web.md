@@ -13,9 +13,9 @@
 ├─node_modules # 依赖包（下载依赖包时生成）
 ├─public # 公共资源，存放站点图标等
 ├─src      # 代码主目录
-│  ├─api    # 请求后端的api
+│  ├─api    # 请求后端 API
 │  ├─assets  # 图片资源
-│  ├─components # 公共的vue组件
+│  ├─components # 公共的 Vue 组件
 │  ├─design
 │  ├─directives
 │  ├─enums
@@ -40,7 +40,7 @@
 │  .env.test  # 测试环境变量配置
 │  package.json # 包依赖列表
 │  README.md
-│  vite.config.ts # vite相关配置
+│  vite.config.ts # Vite 相关配置
 ```
 
 
